@@ -1,1 +1,3 @@
-# myprogram
+# Mano pirmoji programa
+
+## Introduction
